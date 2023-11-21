@@ -1,1 +1,4 @@
 Checking merge conflict
+         &
+Testing merge conflict
+
